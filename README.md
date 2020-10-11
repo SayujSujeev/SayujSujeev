@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Sayuj Sujeev</h1>
-<h3 align="center">A Mobile and Website Developer</h3>
+<h3 align="center">🙋‍♂️A Mobile apps and Website Developer</h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/SayujSujeev?style=social)
 
