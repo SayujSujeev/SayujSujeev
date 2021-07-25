@@ -43,6 +43,8 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCmG8oZFVHDAbOv5Q6m4Ykvg)
 
 ---
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayujsujeev&show_icons=true" alt="Sayuj Sujeev" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayujSujeev&layout=compact&hide=html" alt="SayujSujeev" /></p>
 
