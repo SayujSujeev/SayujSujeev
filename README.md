@@ -10,16 +10,16 @@
 
 - 🤝 **Subscribe to my channel for more designs and tutorials.**[Sayuj Sujeev](https://www.youtube.com/channel/UCmG8oZFVHDAbOv5Q6m4Ykvg)
 
-![Youtube Views](https://img.shields.io/youtube/channel/views/UCmG8oZFVHDAbOv5Q6m4Ykvg?style=social)
-![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmG8oZFVHDAbOv5Q6m4Ykvg?style=social)
+![Youtube Views](https://img.shields.io/youtube/channel/views/UCmG8oZFVHDAbOv5Q6m4Ykvg?logo=youtube&style=for-the-badge)
+![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmG8oZFVHDAbOv5Q6m4Ykvg?logo=youtube&style=for-the-badge)
 
 ### Connect with me:
 
-<a href="https://www.instagram.com/sayuj_sujeev/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sayuj Sujeev" height="22" width="22" /></a>
-<a href="https://www.facebook.com/sayuj.sujeev" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Sayuj Sujeev" height="22" width="22" /></a>
-<a href="https://www.linkedin.com/in/sayujsujeev/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sayuj Sujeev" height="22" width="22" /></a>
-<a href="https://www.youtube.com/channel/UCmG8oZFVHDAbOv5Q6m4Ykvg" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCmG8oZFVHDAbOv5Q6m4Ykvg" height="22" width="22" /></a>
-<a href="https://twitter.com/SayujSujeev" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Sayuj Sujeev" height="22" width="22" /></a>
+<a href="https://www.instagram.com/sayuj_sujeev/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Sayuj Sujeev" height="22" width="22" /></a>
+<a href="https://www.facebook.com/sayuj.sujeev" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Sayuj Sujeev" height="22" width="22" /></a>
+<a href="https://www.linkedin.com/in/sayujsujeev/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sayuj Sujeev" height="22" width="22" /></a>
+<a href="https://www.youtube.com/channel/UCmG8oZFVHDAbOv5Q6m4Ykvg" target="blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="UCmG8oZFVHDAbOv5Q6m4Ykvg" height="22" width="22" /></a>
+<a href="https://twitter.com/SayujSujeev" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Sayuj Sujeev" height="22" width="22" /></a>
 <br />
 ### Languages and Tools:
 
@@ -46,5 +46,4 @@
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayujsujeev&show_icons=true" alt="Sayuj Sujeev" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayujSujeev&layout=compact&hide=html" alt="SayujSujeev" /></p>
 
