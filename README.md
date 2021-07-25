@@ -33,6 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Furniture Shop App - Speed Code - Flutter UI - Staggered Dual View - Custom Clipper](https://www.youtube.com/watch?v=TkABIZWdaHw)
+- [Login Web Page UI Design](https://www.youtube.com/watch?v=KgIs2g55g4w)
+- [Neumorphic Login Screen - Flutter Tutorial - UI Design](https://www.youtube.com/watch?v=8NjEKKkE7D4)
+- [Top 5 eCommerce Concept UI with Flutter - Ep - 2](https://www.youtube.com/watch?v=kqOMR1BmEuM)
+- [Fashion App - Speed Code - Flutter UI](https://www.youtube.com/watch?v=xJtKxc_tfmU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCmG8oZFVHDAbOv5Q6m4Ykvg)
