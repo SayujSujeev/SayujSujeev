@@ -32,7 +32,8 @@
 
 ### 💼 Examples of Work
    
-<img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/organic.gif" width="240" href="https://github.com/SayujSujeev/Organic-Food-App-for-Fruits-and-Vegetables-UI">  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/movieticket.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/fruniture%20new.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/drinkorder.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/meditation.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/real%20estate.gif" width="240" >
+<a href="https://github.com/SayujSujeev/Organic-Food-App-for-Fruits-and-Vegetables-UI
+" target="_blank"><img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/organic.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/movieticket.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/fruniture%20new.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/drinkorder.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/meditation.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/real%20estate.gif" width="240" >
    
 ---
 
