@@ -34,11 +34,11 @@
   
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=FV3vwBSYUNE
 " target="_blank"><img src="http://img.youtube.com/vi/FV3vwBSYUNE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>     <a href="http://www.youtube.com/watch?feature=player_embedded&v=TkABIZWdaHw
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>     <a href="http://www.youtube.com/watch?feature=player_embedded&v=TkABIZWdaHw
 " target="_blank"><img src="http://img.youtube.com/vi/TkABIZWdaHw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>    <a href="http://www.youtube.com/watch?feature=player_embedded&v=QCFgrZyt86M
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>    <a href="http://www.youtube.com/watch?feature=player_embedded&v=QCFgrZyt86M
 " target="_blank"><img src="http://img.youtube.com/vi/QCFgrZyt86M/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ---
 
