@@ -32,7 +32,7 @@
 
 ### 💼 Examples of Work
    
-<img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/organic.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/furniture.gif" width="240" >
+<img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/organic.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/movieticket.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/fruniture%20new.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/drinkorder.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/meditation.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/real%20estate.gif" width="240" >
    
 ---
 
