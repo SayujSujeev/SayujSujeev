@@ -32,7 +32,7 @@
 
 ### 📺 Featured Videos
    
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+<img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/organic.gif" width="512" >
    
 ---
 
