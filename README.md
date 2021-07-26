@@ -31,6 +31,12 @@
 ---
 
 ### 📺 Featured Videos
+   
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+   
+---
+
+### 📺 Featured Videos
   
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=FV3vwBSYUNE
 " target="_blank"><img src="http://img.youtube.com/vi/FV3vwBSYUNE/0.jpg" 
