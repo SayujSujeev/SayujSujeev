@@ -30,13 +30,13 @@
    
 ---
 
-### 📺 Featured Videos
+### 💼 Examples of Work
    
-<img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/organic.gif" width="512" >
+<img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/organic.gif" width="240" >  <img src="https://github.com/SayujSujeev/SayujSujeev/blob/main/furniture.gif" width="240" >
    
 ---
 
-### 📺 Featured Videos
+### ⚡ Featured Videos
   
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=FV3vwBSYUNE
 " target="_blank"><img src="http://img.youtube.com/vi/FV3vwBSYUNE/0.jpg" 
