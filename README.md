@@ -11,7 +11,7 @@
 - 🤝 **Subscribe to my channel for more designs and tutorials.**[Sayuj Sujeev](https://www.youtube.com/channel/UCmG8oZFVHDAbOv5Q6m4Ykvg)
 
 ![Youtube Views](https://img.shields.io/youtube/channel/views/UCmG8oZFVHDAbOv5Q6m4Ykvg?logo=youtube&style=for-the-badge)
-![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmG8oZFVHDAbOv5Q6m4Ykvg?logo=youtube&style=for-the-badge)
+<!-- ![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmG8oZFVHDAbOv5Q6m4Ykvg?logo=youtube&style=for-the-badge) -->
 
 ### Connect with me:
 
