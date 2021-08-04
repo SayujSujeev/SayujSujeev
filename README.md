@@ -52,11 +52,11 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top 10 Android Studio Plugin every Flutter Developer should know!](https://www.youtube.com/watch?v=476qDumYIpY)
 - [Neumorphic Sign-In And Sign-Up Screen - Flutter Tutorial](https://www.youtube.com/watch?v=_A692BcCXwk)
 - [Responsive Admin Dashboard or Panel using Flutter  - Flutter Web UI - Part 3](https://www.youtube.com/watch?v=1Po15hyzdjU)
 - [Responsive Admin Dashboard or Panel using Flutter  - Flutter Web UI - Part 2](https://www.youtube.com/watch?v=QHllsqcCed4)
 - [Responsive Admin Dashboard or Panel using Flutter  - Flutter Web UI - Part 1](https://www.youtube.com/watch?v=MRiZpwdy1CM)
-- [Furniture Shop App - Speed Code - Flutter UI - Staggered Dual View - Custom Clipper](https://www.youtube.com/watch?v=TkABIZWdaHw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCmG8oZFVHDAbOv5Q6m4Ykvg)
