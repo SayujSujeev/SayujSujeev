@@ -2,7 +2,9 @@
 <h3 align="center">🙋‍♂️A Mobile apps and Website Developer</h3>
 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sayujsujeev.id)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=sayujsujeev.id)     <a href="https://stars.github.com/nominate/">
+    <img src="https://img.shields.io/badge/Nominate_Usama_as_GitHub_Star-@sayujsujeev-D50000?logo=GitHub&logoColor=white"/>
+</a>
 
 ![GitHub followers](https://img.shields.io/github/followers/sayujsujeev?logo=github&style=for-the-badge)  ![GitHub Stars](https://img.shields.io/github/stars/sayujsujeev?logo=github&style=for-the-badge)
 
