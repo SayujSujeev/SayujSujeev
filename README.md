@@ -5,7 +5,7 @@
  
 <div align="center">
     <a href="https://stars.github.com/nominate/">
-    <img src="https://img.shields.io/badge/Nominate_Usama_as_GitHub_Star-@sayujsujeev-D50000?logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nominate_Usama_as_GitHub_Star-@sayujsujeev-D50000?logo=GitHub&logoColor=white&style=for-the-badge"/>
 </a>
  </div> 
  
