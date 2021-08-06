@@ -2,6 +2,8 @@
 <h3 align="center">🙋‍♂️A Mobile apps and Website Developer</h3>
 
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=sayujsujeev.id)
+
 ![GitHub followers](https://img.shields.io/github/followers/sayujsujeev?logo=github&style=for-the-badge)  ![GitHub Stars](https://img.shields.io/github/stars/sayujsujeev?logo=github&style=for-the-badge)
 
 - 🙋🏻‍♂️ **I love programing as well as designing.**
