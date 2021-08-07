@@ -73,10 +73,12 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ➡️ [more videos...](https://www.youtube.com/channel/UCmG8oZFVHDAbOv5Q6m4Ykvg)
 
 ---
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayujsujeev&show_icons=true" alt="Sayuj Sujeev" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayujsujeev&show_icons=true&theme=dark" alt="Sayuj Sujeev" /></p>
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayujsujeev&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+ 
+ [![Sayuj Sujeev's github activity graph](https://activity-graph.herokuapp.com/graph?username=sayujsujeev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
