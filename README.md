@@ -13,6 +13,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/sayujsujeev?logo=github&style=for-the-badge)  ![GitHub Stars](https://img.shields.io/github/stars/sayujsujeev?logo=github&style=for-the-badge)
 
+<img align="right" alt="Sayuj Sujeev" src="nobackgroundcode.gif" width="500" height="320" />
+
 - 🙋🏻‍♂️ **I love programing as well as designing.**
 
 - 👯 **I’m looking to collaborate with other content creators**
